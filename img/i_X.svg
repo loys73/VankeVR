@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="18px" viewBox="0 0 20 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>X</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0.25781251%" y1="49.7500002%" x2="101.257813%" y2="49.7500002%" id="linearGradient-1">
+            <stop stop-color="#369BB2" offset="0%"></stop>
+            <stop stop-color="#3297AE" offset="0%"></stop>
+            <stop stop-color="#31BEAC" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile-Portrait---menu" transform="translate(-274.000000, -24.000000)" fill="url(#linearGradient-1)">
+            <polygon id="X" points="294 42 289.655608 42 283.873618 34.6374829 278.044234 42 274 42 281.661927 32.6675787 274.489731 24 278.691943 24 284.031596 30.8084815 289.371248 24 293.447077 24 286.227488 32.7168263"></polygon>
+        </g>
+    </g>
+</svg>
